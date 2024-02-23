@@ -1,0 +1,7 @@
+{
+  "name": "Sumativa_PokeSaliRiv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
