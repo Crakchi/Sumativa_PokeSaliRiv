@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "sumativariverasalinas"
+  },
+  "targets": {
+    "sumativariverasalinas": {
+      "hosting": {
+        "app": [
+          "sumativariverasalinas"
+        ]
+      }
+    }
+  }
+}

@@ -1,3 +1,44 @@
+ion-content{
+  --ion-background-color: rgb(155, 0, 0) ;
+  img{
+    height: 100px;
+  }
+}
+ion-header{
+  ion-toolbar{
+    display: flex;
+    justify-items: center;
+    
+    --background: rgb(96, 0, 0);
+    text-align: center;
+    img{
+      position: relative;
+      right: 36%;
+    }
+    ion-title{
+      position: relative;
+      right: 3%;
+      
+    }
+
+  }
+  
+}
+
+ion-col{
+  text-align: center;
+  ion-button{
+    --background: rgb(0, 117, 0);
+  }
+  ion-card{
+    border: 5px solid rgb(201, 201, 201);
+  }
+  border: 1px solid rgb(96, 0, 0);
+}
+ion-item{
+ 
+  --background: rgb(96, 0, 0);
+}
 #container {
   text-align: center;
 
